@@ -1,0 +1,790 @@
+[2021-07-08 20:11:01] - exp name : exp001
+[2021-07-08 20:11:01] - metrics : mean_squared_error
+[2021-07-08 20:11:01] - cv : make_kf
+[2021-07-08 20:11:01] - model : MyLGBMModel
+[2021-07-08 20:11:01] - feature select method : tree_importance
+[2021-07-08 20:11:01] - feature select fold : 5
+[2021-07-08 20:11:01] - feature select num : 300
+[2021-07-08 20:11:01] - folds: 5
+[2021-07-08 20:11:01] - seeds : [0, 1, 2]
+[2021-07-08 20:11:01] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:11:01] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:11:01] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:13:22] - exp name : exp001
+[2021-07-08 20:13:22] - metrics : mean_squared_error
+[2021-07-08 20:13:22] - cv : make_kf
+[2021-07-08 20:13:22] - model : MyLGBMModel
+[2021-07-08 20:13:22] - feature select method : tree_importance
+[2021-07-08 20:13:22] - feature select fold : 5
+[2021-07-08 20:13:22] - feature select num : 300
+[2021-07-08 20:13:22] - folds: 5
+[2021-07-08 20:13:22] - seeds : [0, 1, 2]
+[2021-07-08 20:13:22] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:13:22] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:13:22] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:15:57] - exp name : exp001
+[2021-07-08 20:15:57] - metrics : mean_squared_error
+[2021-07-08 20:15:57] - cv : make_kf
+[2021-07-08 20:15:57] - model : MyLGBMModel
+[2021-07-08 20:15:57] - feature select method : tree_importance
+[2021-07-08 20:15:57] - feature select fold : 5
+[2021-07-08 20:15:57] - feature select num : 300
+[2021-07-08 20:15:57] - folds: 5
+[2021-07-08 20:15:57] - seeds : [0, 1, 2]
+[2021-07-08 20:15:57] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:15:57] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:15:57] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:25:23] - exp name : exp001
+[2021-07-08 20:25:23] - metrics : mean_squared_error
+[2021-07-08 20:25:23] - cv : make_kf
+[2021-07-08 20:25:23] - model : MyLGBMModel
+[2021-07-08 20:25:23] - feature select method : tree_importance
+[2021-07-08 20:25:23] - feature select fold : 5
+[2021-07-08 20:25:23] - feature select num : 300
+[2021-07-08 20:25:23] - folds: 5
+[2021-07-08 20:25:23] - seeds : [0, 1, 2]
+[2021-07-08 20:25:23] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:25:23] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:25:23] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:28:21] - exp name : exp001
+[2021-07-08 20:28:21] - metrics : mean_squared_error
+[2021-07-08 20:28:21] - cv : make_kf
+[2021-07-08 20:28:21] - model : MyLGBMModel
+[2021-07-08 20:28:21] - feature select method : tree_importance
+[2021-07-08 20:28:21] - feature select fold : 5
+[2021-07-08 20:28:21] - feature select num : 300
+[2021-07-08 20:28:21] - folds: 5
+[2021-07-08 20:28:21] - seeds : [0, 1, 2]
+[2021-07-08 20:28:21] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:28:21] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:28:21] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:32:23] - exp name : exp001
+[2021-07-08 20:32:23] - metrics : mean_squared_error
+[2021-07-08 20:32:23] - cv : make_kf
+[2021-07-08 20:32:23] - model : MyLGBMModel
+[2021-07-08 20:32:23] - feature select method : tree_importance
+[2021-07-08 20:32:23] - feature select fold : 5
+[2021-07-08 20:32:23] - feature select num : 300
+[2021-07-08 20:32:23] - folds: 5
+[2021-07-08 20:32:23] - seeds : [0, 1, 2]
+[2021-07-08 20:32:23] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:32:23] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:32:23] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:33:39] - exp name : exp001
+[2021-07-08 20:33:39] - metrics : mean_squared_error
+[2021-07-08 20:33:39] - cv : make_kf
+[2021-07-08 20:33:39] - model : MyLGBMModel
+[2021-07-08 20:33:39] - feature select method : tree_importance
+[2021-07-08 20:33:39] - feature select fold : 5
+[2021-07-08 20:33:39] - feature select num : 300
+[2021-07-08 20:33:39] - folds: 5
+[2021-07-08 20:33:39] - seeds : [0, 1, 2]
+[2021-07-08 20:33:39] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:33:39] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:33:39] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:36:07] - exp name : exp001
+[2021-07-08 20:36:07] - metrics : mean_squared_error
+[2021-07-08 20:36:07] - cv : make_kf
+[2021-07-08 20:36:07] - model : MyLGBMModel
+[2021-07-08 20:36:07] - feature select method : tree_importance
+[2021-07-08 20:36:07] - feature select fold : 5
+[2021-07-08 20:36:07] - feature select num : 300
+[2021-07-08 20:36:07] - folds: 5
+[2021-07-08 20:36:07] - seeds : [0, 1, 2]
+[2021-07-08 20:36:07] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:36:07] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:36:07] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:38:14] - exp name : exp001
+[2021-07-08 20:38:14] - metrics : mean_squared_error
+[2021-07-08 20:38:14] - cv : make_kf
+[2021-07-08 20:38:14] - model : MyLGBMModel
+[2021-07-08 20:38:14] - feature select method : tree_importance
+[2021-07-08 20:38:14] - feature select fold : 5
+[2021-07-08 20:38:14] - feature select num : 300
+[2021-07-08 20:38:14] - folds: 5
+[2021-07-08 20:38:14] - seeds : [0, 1, 2]
+[2021-07-08 20:38:14] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:38:14] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:38:14] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:43:29] - exp name : exp001
+[2021-07-08 20:43:29] - metrics : mean_squared_error
+[2021-07-08 20:43:29] - cv : make_kf
+[2021-07-08 20:43:29] - model : MyLGBMModel
+[2021-07-08 20:43:29] - feature select method : tree_importance
+[2021-07-08 20:43:29] - feature select fold : 5
+[2021-07-08 20:43:29] - feature select num : 300
+[2021-07-08 20:43:29] - folds: 5
+[2021-07-08 20:43:29] - seeds : [0, 1, 2]
+[2021-07-08 20:43:29] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:43:29] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:43:29] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:45:34] - exp name : exp001
+[2021-07-08 20:45:34] - metrics : mean_squared_error
+[2021-07-08 20:45:34] - cv : make_kf
+[2021-07-08 20:45:34] - model : MyLGBMModel
+[2021-07-08 20:45:34] - feature select method : tree_importance
+[2021-07-08 20:45:34] - feature select fold : 5
+[2021-07-08 20:45:34] - feature select num : 300
+[2021-07-08 20:45:34] - folds: 5
+[2021-07-08 20:45:34] - seeds : [0, 1, 2]
+[2021-07-08 20:45:34] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:45:34] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:45:34] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:46:32] - exp name : exp001
+[2021-07-08 20:46:32] - metrics : mean_squared_error
+[2021-07-08 20:46:32] - cv : make_kf
+[2021-07-08 20:46:32] - model : MyLGBMModel
+[2021-07-08 20:46:32] - feature select method : tree_importance
+[2021-07-08 20:46:32] - feature select fold : 5
+[2021-07-08 20:46:32] - feature select num : 300
+[2021-07-08 20:46:32] - folds: 5
+[2021-07-08 20:46:32] - seeds : [0, 1, 2]
+[2021-07-08 20:46:32] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:46:32] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:46:32] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:47:26] - exp name : exp001
+[2021-07-08 20:47:26] - metrics : mean_squared_error
+[2021-07-08 20:47:26] - cv : make_kf
+[2021-07-08 20:47:26] - model : MyLGBMModel
+[2021-07-08 20:47:26] - feature select method : tree_importance
+[2021-07-08 20:47:26] - feature select fold : 5
+[2021-07-08 20:47:26] - feature select num : 300
+[2021-07-08 20:47:26] - folds: 5
+[2021-07-08 20:47:26] - seeds : [0, 1, 2]
+[2021-07-08 20:47:26] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:47:26] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:47:26] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:48:48] - exp name : exp001
+[2021-07-08 20:48:48] - metrics : mean_squared_error
+[2021-07-08 20:48:48] - cv : make_kf
+[2021-07-08 20:48:48] - model : MyLGBMModel
+[2021-07-08 20:48:48] - feature select method : tree_importance
+[2021-07-08 20:48:48] - feature select fold : 5
+[2021-07-08 20:48:48] - feature select num : 300
+[2021-07-08 20:48:48] - folds: 5
+[2021-07-08 20:48:48] - seeds : [0, 1, 2]
+[2021-07-08 20:48:48] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:48:48] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:48:48] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:49:04] - exp name : exp001
+[2021-07-08 20:49:04] - metrics : mean_squared_error
+[2021-07-08 20:49:04] - cv : make_kf
+[2021-07-08 20:49:04] - model : MyLGBMModel
+[2021-07-08 20:49:04] - feature select method : tree_importance
+[2021-07-08 20:49:04] - feature select fold : 5
+[2021-07-08 20:49:04] - feature select num : 300
+[2021-07-08 20:49:04] - folds: 5
+[2021-07-08 20:49:04] - seeds : [0, 1, 2]
+[2021-07-08 20:49:04] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:49:04] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:49:04] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:49:31] - exp name : exp001
+[2021-07-08 20:49:31] - metrics : mean_squared_error
+[2021-07-08 20:49:31] - cv : make_kf
+[2021-07-08 20:49:31] - model : MyLGBMModel
+[2021-07-08 20:49:31] - feature select method : tree_importance
+[2021-07-08 20:49:31] - feature select fold : 5
+[2021-07-08 20:49:31] - feature select num : 300
+[2021-07-08 20:49:31] - folds: 5
+[2021-07-08 20:49:31] - seeds : [0, 1, 2]
+[2021-07-08 20:49:31] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:49:31] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:49:31] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:50:08] - exp name : exp001
+[2021-07-08 20:50:08] - metrics : mean_squared_error
+[2021-07-08 20:50:08] - cv : make_kf
+[2021-07-08 20:50:08] - model : MyLGBMModel
+[2021-07-08 20:50:08] - feature select method : tree_importance
+[2021-07-08 20:50:08] - feature select fold : 5
+[2021-07-08 20:50:08] - feature select num : 300
+[2021-07-08 20:50:08] - folds: 5
+[2021-07-08 20:50:08] - seeds : [0, 1, 2]
+[2021-07-08 20:50:08] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:50:08] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:50:08] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:53:15] - exp name : exp001
+[2021-07-08 20:53:15] - metrics : mean_squared_error
+[2021-07-08 20:53:15] - cv : make_kf
+[2021-07-08 20:53:15] - model : MyLGBMModel
+[2021-07-08 20:53:15] - feature select method : tree_importance
+[2021-07-08 20:53:15] - feature select fold : 5
+[2021-07-08 20:53:15] - feature select num : 300
+[2021-07-08 20:53:15] - folds: 5
+[2021-07-08 20:53:15] - seeds : [0, 1, 2]
+[2021-07-08 20:53:15] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:53:15] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:53:15] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:58:12] - exp name : exp001
+[2021-07-08 20:58:12] - metrics : mean_squared_error
+[2021-07-08 20:58:12] - cv : make_kf
+[2021-07-08 20:58:12] - model : MyLGBMModel
+[2021-07-08 20:58:12] - feature select method : tree_importance
+[2021-07-08 20:58:12] - feature select fold : 5
+[2021-07-08 20:58:12] - feature select num : 300
+[2021-07-08 20:58:12] - folds: 5
+[2021-07-08 20:58:12] - seeds : [0, 1, 2]
+[2021-07-08 20:58:12] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:58:12] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:58:12] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 20:58:36] - exp name : exp001
+[2021-07-08 20:58:36] - metrics : mean_squared_error
+[2021-07-08 20:58:36] - cv : make_kf
+[2021-07-08 20:58:36] - model : MyLGBMModel
+[2021-07-08 20:58:36] - feature select method : tree_importance
+[2021-07-08 20:58:36] - feature select fold : 5
+[2021-07-08 20:58:36] - feature select num : 300
+[2021-07-08 20:58:36] - folds: 5
+[2021-07-08 20:58:36] - seeds : [0, 1, 2]
+[2021-07-08 20:58:36] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 20:58:36] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 20:58:36] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 21:03:56] - exp name : exp001
+[2021-07-08 21:03:56] - metrics : mean_squared_error
+[2021-07-08 21:03:56] - cv : make_kf
+[2021-07-08 21:03:56] - model : MyLGBMModel
+[2021-07-08 21:03:56] - feature select method : tree_importance
+[2021-07-08 21:03:56] - feature select fold : 5
+[2021-07-08 21:03:56] - feature select num : 300
+[2021-07-08 21:03:56] - folds: 5
+[2021-07-08 21:03:56] - seeds : [0, 1, 2]
+[2021-07-08 21:03:56] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 21:03:56] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 21:03:56] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 21:04:11] - exp name : exp001
+[2021-07-08 21:04:11] - metrics : mean_squared_error
+[2021-07-08 21:04:11] - cv : make_kf
+[2021-07-08 21:04:11] - model : MyLGBMModel
+[2021-07-08 21:04:11] - feature select method : tree_importance
+[2021-07-08 21:04:11] - feature select fold : 5
+[2021-07-08 21:04:11] - feature select num : 300
+[2021-07-08 21:04:11] - folds: 5
+[2021-07-08 21:04:11] - seeds : [0, 1, 2]
+[2021-07-08 21:04:11] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 21:04:11] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 21:04:11] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 21:07:22] - exp name : exp001
+[2021-07-08 21:07:22] - metrics : mean_squared_error
+[2021-07-08 21:07:22] - cv : make_kf
+[2021-07-08 21:07:22] - model : MyLGBMModel
+[2021-07-08 21:07:22] - feature select method : tree_importance
+[2021-07-08 21:07:22] - feature select fold : 5
+[2021-07-08 21:07:22] - feature select num : 300
+[2021-07-08 21:07:22] - folds: 5
+[2021-07-08 21:07:22] - seeds : [0, 1, 2]
+[2021-07-08 21:07:22] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 21:07:22] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 21:07:22] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 21:07:35] - exp name : exp001
+[2021-07-08 21:07:35] - metrics : mean_squared_error
+[2021-07-08 21:07:35] - cv : make_kf
+[2021-07-08 21:07:35] - model : MyLGBMModel
+[2021-07-08 21:07:35] - feature select method : tree_importance
+[2021-07-08 21:07:35] - feature select fold : 5
+[2021-07-08 21:07:35] - feature select num : 300
+[2021-07-08 21:07:35] - folds: 5
+[2021-07-08 21:07:35] - seeds : [0, 1, 2]
+[2021-07-08 21:07:35] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 21:07:35] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 21:07:35] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 21:11:42] - exp name : exp001
+[2021-07-08 21:11:42] - metrics : mean_squared_error
+[2021-07-08 21:11:42] - cv : make_kf
+[2021-07-08 21:11:42] - model : MyLGBMModel
+[2021-07-08 21:11:42] - feature select method : tree_importance
+[2021-07-08 21:11:42] - feature select fold : 5
+[2021-07-08 21:11:42] - feature select num : 300
+[2021-07-08 21:11:42] - folds: 5
+[2021-07-08 21:11:42] - seeds : [0, 1, 2]
+[2021-07-08 21:11:42] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 21:11:42] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 21:11:42] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 21:17:33] - exp name : exp001
+[2021-07-08 21:17:33] - metrics : mean_squared_error
+[2021-07-08 21:17:33] - cv : make_kf
+[2021-07-08 21:17:33] - model : MyLGBMModel
+[2021-07-08 21:17:33] - feature select method : tree_importance
+[2021-07-08 21:17:33] - feature select fold : 5
+[2021-07-08 21:17:33] - feature select num : 300
+[2021-07-08 21:17:33] - folds: 5
+[2021-07-08 21:17:33] - seeds : [0, 1, 2]
+[2021-07-08 21:17:33] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 21:17:33] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 21:17:33] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 21:17:44] - exp name : exp001
+[2021-07-08 21:17:44] - metrics : mean_squared_error
+[2021-07-08 21:17:44] - cv : make_kf
+[2021-07-08 21:17:44] - model : MyLGBMModel
+[2021-07-08 21:17:44] - feature select method : tree_importance
+[2021-07-08 21:17:44] - feature select fold : 5
+[2021-07-08 21:17:44] - feature select num : 300
+[2021-07-08 21:17:44] - folds: 5
+[2021-07-08 21:17:44] - seeds : [0, 1, 2]
+[2021-07-08 21:17:44] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 21:17:44] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 21:17:44] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 21:24:33] - exp name : exp001
+[2021-07-08 21:24:33] - metrics : mean_squared_error
+[2021-07-08 21:24:33] - cv : make_kf
+[2021-07-08 21:24:33] - model : MyLGBMModel
+[2021-07-08 21:24:33] - feature select method : tree_importance
+[2021-07-08 21:24:33] - feature select fold : 5
+[2021-07-08 21:24:33] - feature select num : 300
+[2021-07-08 21:24:33] - folds: 5
+[2021-07-08 21:24:33] - seeds : [0, 1, 2]
+[2021-07-08 21:24:33] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 21:24:33] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 21:24:33] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 21:37:26] - exp name : exp001
+[2021-07-08 21:37:26] - metrics : mean_squared_error
+[2021-07-08 21:37:26] - cv : make_kf
+[2021-07-08 21:37:26] - model : MyLGBMModel
+[2021-07-08 21:37:26] - feature select method : tree_importance
+[2021-07-08 21:37:26] - feature select fold : 5
+[2021-07-08 21:37:26] - feature select num : 300
+[2021-07-08 21:37:26] - folds: 5
+[2021-07-08 21:37:26] - seeds : [0, 1, 2]
+[2021-07-08 21:37:26] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 21:37:26] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 21:37:26] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 21:39:05] - exp name : exp001
+[2021-07-08 21:39:05] - metrics : mean_squared_error
+[2021-07-08 21:39:05] - cv : make_kf
+[2021-07-08 21:39:05] - model : MyLGBMModel
+[2021-07-08 21:39:05] - feature select method : tree_importance
+[2021-07-08 21:39:05] - feature select fold : 5
+[2021-07-08 21:39:05] - feature select num : 300
+[2021-07-08 21:39:05] - folds: 5
+[2021-07-08 21:39:05] - seeds : [0, 1, 2]
+[2021-07-08 21:39:05] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 21:39:05] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 21:39:05] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 21:41:41] - exp name : exp001
+[2021-07-08 21:41:41] - metrics : mean_squared_error
+[2021-07-08 21:41:41] - cv : make_kf
+[2021-07-08 21:41:41] - model : MyLGBMModel
+[2021-07-08 21:41:41] - feature select method : tree_importance
+[2021-07-08 21:41:41] - feature select fold : 5
+[2021-07-08 21:41:41] - feature select num : 300
+[2021-07-08 21:41:41] - folds: 5
+[2021-07-08 21:41:41] - seeds : [0, 1, 2]
+[2021-07-08 21:41:41] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 21:41:41] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 21:41:41] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-08 21:49:26] - exp name : exp001
+[2021-07-08 21:49:26] - metrics : mean_squared_error
+[2021-07-08 21:49:26] - cv : make_kf
+[2021-07-08 21:49:26] - model : MyLGBMModel
+[2021-07-08 21:49:26] - feature select method : tree_importance
+[2021-07-08 21:49:26] - feature select fold : 5
+[2021-07-08 21:49:26] - feature select num : 300
+[2021-07-08 21:49:26] - folds: 5
+[2021-07-08 21:49:26] - seeds : [0, 1, 2]
+[2021-07-08 21:49:26] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-08 21:49:26] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-08 21:49:26] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 10:49:27] - exp name : exp001
+[2021-07-09 10:49:27] - metrics : mean_squared_error
+[2021-07-09 10:49:27] - cv : make_kf
+[2021-07-09 10:49:27] - model : MyLGBMModel
+[2021-07-09 10:49:27] - feature select method : tree_importance
+[2021-07-09 10:49:27] - feature select fold : 5
+[2021-07-09 10:49:27] - feature select num : 300
+[2021-07-09 10:49:27] - folds: 5
+[2021-07-09 10:49:27] - seeds : [0, 1, 2]
+[2021-07-09 10:49:27] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 10:49:27] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 10:49:27] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 10:51:02] - exp name : exp001
+[2021-07-09 10:51:02] - metrics : mean_squared_error
+[2021-07-09 10:51:02] - cv : make_kf
+[2021-07-09 10:51:02] - model : MyLGBMModel
+[2021-07-09 10:51:02] - feature select method : tree_importance
+[2021-07-09 10:51:02] - feature select fold : 5
+[2021-07-09 10:51:02] - feature select num : 300
+[2021-07-09 10:51:02] - folds: 5
+[2021-07-09 10:51:02] - seeds : [0, 1, 2]
+[2021-07-09 10:51:02] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 10:51:02] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 10:51:02] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 10:56:27] - exp name : exp001
+[2021-07-09 10:56:27] - metrics : mean_squared_error
+[2021-07-09 10:56:27] - cv : make_kf
+[2021-07-09 10:56:27] - model : MyLGBMModel
+[2021-07-09 10:56:27] - feature select method : tree_importance
+[2021-07-09 10:56:27] - feature select fold : 5
+[2021-07-09 10:56:27] - feature select num : 300
+[2021-07-09 10:56:27] - folds: 5
+[2021-07-09 10:56:27] - seeds : [0, 1, 2]
+[2021-07-09 10:56:27] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 10:56:27] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 10:56:27] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 10:57:39] - exp name : exp001
+[2021-07-09 10:57:39] - metrics : mean_squared_error
+[2021-07-09 10:57:39] - cv : make_kf
+[2021-07-09 10:57:39] - model : MyLGBMModel
+[2021-07-09 10:57:39] - feature select method : tree_importance
+[2021-07-09 10:57:39] - feature select fold : 5
+[2021-07-09 10:57:39] - feature select num : 300
+[2021-07-09 10:57:39] - folds: 5
+[2021-07-09 10:57:39] - seeds : [0, 1, 2]
+[2021-07-09 10:57:39] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 10:57:39] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 10:57:39] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 11:32:52] - exp name : exp001
+[2021-07-09 11:32:52] - metrics : mean_squared_error
+[2021-07-09 11:32:52] - cv : make_kf
+[2021-07-09 11:32:52] - model : MyLGBMModel
+[2021-07-09 11:32:52] - feature select method : tree_importance
+[2021-07-09 11:32:52] - feature select fold : 5
+[2021-07-09 11:32:52] - feature select num : 300
+[2021-07-09 11:32:52] - folds: 5
+[2021-07-09 11:32:52] - seeds : [0, 1, 2]
+[2021-07-09 11:32:52] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 11:32:52] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 11:32:52] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 11:33:36] - exp name : exp001
+[2021-07-09 11:33:36] - metrics : mean_squared_error
+[2021-07-09 11:33:36] - cv : make_kf
+[2021-07-09 11:33:36] - model : MyLGBMModel
+[2021-07-09 11:33:36] - feature select method : tree_importance
+[2021-07-09 11:33:36] - feature select fold : 5
+[2021-07-09 11:33:36] - feature select num : 300
+[2021-07-09 11:33:36] - folds: 5
+[2021-07-09 11:33:36] - seeds : [0, 1, 2]
+[2021-07-09 11:33:36] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 11:33:36] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 11:33:36] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 11:34:34] - exp name : exp001
+[2021-07-09 11:34:34] - metrics : mean_squared_error
+[2021-07-09 11:34:34] - cv : make_kf
+[2021-07-09 11:34:34] - model : MyLGBMModel
+[2021-07-09 11:34:34] - feature select method : tree_importance
+[2021-07-09 11:34:34] - feature select fold : 5
+[2021-07-09 11:34:34] - feature select num : 300
+[2021-07-09 11:34:34] - folds: 5
+[2021-07-09 11:34:34] - seeds : [0, 1, 2]
+[2021-07-09 11:34:34] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 11:34:34] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 11:34:34] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 11:35:17] - exp name : exp001
+[2021-07-09 11:35:17] - metrics : mean_squared_error
+[2021-07-09 11:35:17] - cv : make_kf
+[2021-07-09 11:35:17] - model : MyLGBMModel
+[2021-07-09 11:35:17] - feature select method : tree_importance
+[2021-07-09 11:35:17] - feature select fold : 5
+[2021-07-09 11:35:17] - feature select num : 300
+[2021-07-09 11:35:17] - folds: 5
+[2021-07-09 11:35:17] - seeds : [0, 1, 2]
+[2021-07-09 11:35:17] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 11:35:17] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 11:35:17] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 11:36:52] - exp name : exp001
+[2021-07-09 11:36:52] - metrics : mean_squared_error
+[2021-07-09 11:36:52] - cv : make_kf
+[2021-07-09 11:36:52] - model : MyLGBMModel
+[2021-07-09 11:36:52] - feature select method : tree_importance
+[2021-07-09 11:36:52] - feature select fold : 5
+[2021-07-09 11:36:52] - feature select num : 300
+[2021-07-09 11:36:52] - folds: 5
+[2021-07-09 11:36:52] - seeds : [0, 1, 2]
+[2021-07-09 11:36:52] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 11:36:52] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 11:36:52] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 11:37:57] - exp name : exp001
+[2021-07-09 11:37:57] - metrics : mean_squared_error
+[2021-07-09 11:37:57] - cv : make_kf
+[2021-07-09 11:37:57] - model : MyLGBMModel
+[2021-07-09 11:37:57] - feature select method : tree_importance
+[2021-07-09 11:37:57] - feature select fold : 5
+[2021-07-09 11:37:57] - feature select num : 300
+[2021-07-09 11:37:57] - folds: 5
+[2021-07-09 11:37:57] - seeds : [0, 1, 2]
+[2021-07-09 11:37:57] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 11:37:57] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 11:37:57] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 11:38:48] - exp name : exp001
+[2021-07-09 11:38:48] - metrics : mean_squared_error
+[2021-07-09 11:38:48] - cv : make_kf
+[2021-07-09 11:38:48] - model : MyLGBMModel
+[2021-07-09 11:38:48] - feature select method : tree_importance
+[2021-07-09 11:38:48] - feature select fold : 5
+[2021-07-09 11:38:48] - feature select num : 300
+[2021-07-09 11:38:48] - folds: 5
+[2021-07-09 11:38:48] - seeds : [0, 1, 2]
+[2021-07-09 11:38:48] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 11:38:48] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 11:38:48] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 11:41:24] - exp name : exp001
+[2021-07-09 11:41:24] - metrics : mean_squared_error
+[2021-07-09 11:41:24] - cv : make_kf
+[2021-07-09 11:41:24] - model : MyLGBMModel
+[2021-07-09 11:41:24] - feature select method : tree_importance
+[2021-07-09 11:41:24] - feature select fold : 5
+[2021-07-09 11:41:24] - feature select num : 300
+[2021-07-09 11:41:24] - folds: 5
+[2021-07-09 11:41:24] - seeds : [0, 1, 2]
+[2021-07-09 11:41:24] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 11:41:24] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 11:41:24] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 11:43:02] - exp name : exp001
+[2021-07-09 11:43:02] - metrics : mean_squared_error
+[2021-07-09 11:43:02] - cv : make_kf
+[2021-07-09 11:43:02] - model : MyLGBMModel
+[2021-07-09 11:43:02] - feature select method : tree_importance
+[2021-07-09 11:43:02] - feature select fold : 5
+[2021-07-09 11:43:02] - feature select num : 300
+[2021-07-09 11:43:02] - folds: 5
+[2021-07-09 11:43:02] - seeds : [0, 1, 2]
+[2021-07-09 11:43:02] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 11:43:02] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 11:43:02] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 11:44:00] - exp name : exp001
+[2021-07-09 11:44:00] - metrics : mean_squared_error
+[2021-07-09 11:44:00] - cv : make_kf
+[2021-07-09 11:44:00] - model : MyLGBMModel
+[2021-07-09 11:44:00] - feature select method : tree_importance
+[2021-07-09 11:44:00] - feature select fold : 5
+[2021-07-09 11:44:00] - feature select num : 300
+[2021-07-09 11:44:00] - folds: 5
+[2021-07-09 11:44:00] - seeds : [0, 1, 2]
+[2021-07-09 11:44:00] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 11:44:00] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 11:44:00] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 11:45:09] - exp name : exp001
+[2021-07-09 11:45:09] - metrics : mean_squared_error
+[2021-07-09 11:45:09] - cv : make_kf
+[2021-07-09 11:45:09] - model : MyLGBMModel
+[2021-07-09 11:45:09] - feature select method : tree_importance
+[2021-07-09 11:45:09] - feature select fold : 5
+[2021-07-09 11:45:09] - feature select num : 300
+[2021-07-09 11:45:09] - folds: 5
+[2021-07-09 11:45:09] - seeds : [0, 1, 2]
+[2021-07-09 11:45:09] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 11:45:09] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 11:45:09] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 11:46:59] - exp name : exp001
+[2021-07-09 11:46:59] - metrics : mean_squared_error
+[2021-07-09 11:46:59] - cv : make_kf
+[2021-07-09 11:46:59] - model : MyLGBMModel
+[2021-07-09 11:46:59] - feature select method : tree_importance
+[2021-07-09 11:46:59] - feature select fold : 5
+[2021-07-09 11:46:59] - feature select num : 300
+[2021-07-09 11:46:59] - folds: 5
+[2021-07-09 11:46:59] - seeds : [0, 1, 2]
+[2021-07-09 11:46:59] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 11:46:59] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 11:46:59] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 12:02:26] - exp name : exp001
+[2021-07-09 12:02:26] - metrics : mean_squared_error
+[2021-07-09 12:02:26] - cv : make_kf
+[2021-07-09 12:02:26] - model : MyLGBMModel
+[2021-07-09 12:02:26] - feature select method : tree_importance
+[2021-07-09 12:02:26] - feature select fold : 5
+[2021-07-09 12:02:26] - feature select num : 300
+[2021-07-09 12:02:26] - folds: 5
+[2021-07-09 12:02:26] - seeds : [0, 1, 2]
+[2021-07-09 12:02:26] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 12:02:26] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 12:02:26] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 12:02:48] - exp name : exp001
+[2021-07-09 12:02:48] - metrics : mean_squared_error
+[2021-07-09 12:02:48] - cv : make_kf
+[2021-07-09 12:02:48] - model : MyLGBMModel
+[2021-07-09 12:02:48] - feature select method : tree_importance
+[2021-07-09 12:02:48] - feature select fold : 5
+[2021-07-09 12:02:48] - feature select num : 300
+[2021-07-09 12:02:48] - folds: 5
+[2021-07-09 12:02:48] - seeds : [0, 1, 2]
+[2021-07-09 12:02:48] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 12:02:48] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 12:02:48] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 12:03:29] - exp name : exp001
+[2021-07-09 12:03:29] - metrics : mean_squared_error
+[2021-07-09 12:03:29] - cv : make_kf
+[2021-07-09 12:03:29] - model : MyLGBMModel
+[2021-07-09 12:03:29] - feature select method : tree_importance
+[2021-07-09 12:03:29] - feature select fold : 5
+[2021-07-09 12:03:29] - feature select num : 300
+[2021-07-09 12:03:29] - folds: 5
+[2021-07-09 12:03:29] - seeds : [0, 1, 2]
+[2021-07-09 12:03:29] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 12:03:29] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 12:03:29] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 12:07:18] - exp name : exp001
+[2021-07-09 12:07:18] - metrics : mean_squared_error
+[2021-07-09 12:07:18] - cv : make_kf
+[2021-07-09 12:07:18] - model : MyLGBMModel
+[2021-07-09 12:07:18] - feature select method : tree_importance
+[2021-07-09 12:07:18] - feature select fold : 5
+[2021-07-09 12:07:18] - feature select num : 300
+[2021-07-09 12:07:18] - folds: 5
+[2021-07-09 12:07:18] - seeds : [0, 1, 2]
+[2021-07-09 12:07:18] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 12:07:18] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 12:07:18] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 12:07:43] - exp name : exp001
+[2021-07-09 12:07:43] - metrics : mean_squared_error
+[2021-07-09 12:07:43] - cv : make_kf
+[2021-07-09 12:07:43] - model : MyLGBMModel
+[2021-07-09 12:07:43] - feature select method : tree_importance
+[2021-07-09 12:07:43] - feature select fold : 5
+[2021-07-09 12:07:43] - feature select num : 300
+[2021-07-09 12:07:43] - folds: 5
+[2021-07-09 12:07:43] - seeds : [0, 1, 2]
+[2021-07-09 12:07:43] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 12:07:43] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 12:07:43] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 12:07:53] - exp name : exp001
+[2021-07-09 12:07:53] - metrics : mean_squared_error
+[2021-07-09 12:07:53] - cv : make_kf
+[2021-07-09 12:07:53] - model : MyLGBMModel
+[2021-07-09 12:07:53] - feature select method : tree_importance
+[2021-07-09 12:07:53] - feature select fold : 5
+[2021-07-09 12:07:53] - feature select num : 300
+[2021-07-09 12:07:53] - folds: 5
+[2021-07-09 12:07:53] - seeds : [0, 1, 2]
+[2021-07-09 12:07:53] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 12:07:53] - fit params: {'early_stopping_rounds': 200, 'verbose': 100}
+[2021-07-09 12:07:53] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 12:11:10] - exp001_PRICE - SEED:0, FOLD:0 >>> 0.0417
+[2021-07-09 12:11:59] - exp001_PRICE - SEED:0, FOLD:1 >>> 0.0543
+[2021-07-09 12:12:36] - exp001_PRICE - SEED:0, FOLD:2 >>> 0.0381
+[2021-07-09 12:13:12] - exp001_PRICE - SEED:0, FOLD:3 >>> 0.0439
+[2021-07-09 12:13:45] - exp001_PRICE - SEED:0, FOLD:4 >>> 0.0476
+[2021-07-09 12:13:47] - exp001_PRICE = SEED:0 - score: 0.0451
+[2021-07-09 12:14:15] - exp001_PRICE - SEED:1, FOLD:0 >>> 0.0416
+[2021-07-09 12:14:53] - exp001_PRICE - SEED:1, FOLD:1 >>> 0.0485
+[2021-07-09 12:15:28] - exp001_PRICE - SEED:1, FOLD:2 >>> 0.0467
+[2021-07-09 12:16:12] - exp001_PRICE - SEED:1, FOLD:3 >>> 0.0414
+[2021-07-09 12:16:44] - exp001_PRICE - SEED:1, FOLD:4 >>> 0.0458
+[2021-07-09 12:16:45] - exp001_PRICE = SEED:1 - score: 0.0448
+[2021-07-09 12:17:10] - exp001_PRICE - SEED:2, FOLD:0 >>> 0.0463
+[2021-07-09 12:17:40] - exp001_PRICE - SEED:2, FOLD:1 >>> 0.0438
+[2021-07-09 12:18:04] - exp001_PRICE - SEED:2, FOLD:2 >>> 0.0454
+[2021-07-09 12:18:25] - exp001_PRICE - SEED:2, FOLD:3 >>> 0.0428
+[2021-07-09 12:18:49] - exp001_PRICE - SEED:2, FOLD:4 >>> 0.0449
+[2021-07-09 12:18:51] - exp001_PRICE = SEED:2 - score: 0.0446
+[2021-07-09 12:18:51] - exp001_PRICE =======  Start prediction cv 🚀 =======
+[2021-07-09 12:18:51] - exp001_PRICE >>> SEED:0, FOLD:0
+[2021-07-09 12:18:52] - exp001_PRICE >>> SEED:0, FOLD:1
+[2021-07-09 12:18:54] - exp001_PRICE >>> SEED:0, FOLD:2
+[2021-07-09 12:18:55] - exp001_PRICE >>> SEED:0, FOLD:3
+[2021-07-09 12:18:56] - exp001_PRICE >>> SEED:0, FOLD:4
+[2021-07-09 12:18:58] - exp001_PRICE >>> SEED:1, FOLD:0
+[2021-07-09 12:18:59] - exp001_PRICE >>> SEED:1, FOLD:1
+[2021-07-09 12:19:00] - exp001_PRICE >>> SEED:1, FOLD:2
+[2021-07-09 12:19:02] - exp001_PRICE >>> SEED:1, FOLD:3
+[2021-07-09 12:19:03] - exp001_PRICE >>> SEED:1, FOLD:4
+[2021-07-09 12:19:05] - exp001_PRICE >>> SEED:2, FOLD:0
+[2021-07-09 12:19:06] - exp001_PRICE >>> SEED:2, FOLD:1
+[2021-07-09 12:19:07] - exp001_PRICE >>> SEED:2, FOLD:2
+[2021-07-09 12:19:09] - exp001_PRICE >>> SEED:2, FOLD:3
+[2021-07-09 12:19:10] - exp001_PRICE >>> SEED:2, FOLD:4
+[2021-07-09 12:19:11] - exp001_PRICE =======  Complete prediction cv 🎉 ======= 
+[2021-07-09 18:54:41] - exp name : exp001
+[2021-07-09 18:54:41] - metrics : mean_squared_error
+[2021-07-09 18:54:41] - cv : make_kf
+[2021-07-09 18:54:41] - model : MyLGBMModel
+[2021-07-09 18:54:41] - feature select method : tree_importance
+[2021-07-09 18:54:41] - feature select fold : 5
+[2021-07-09 18:54:41] - feature select num : 300
+[2021-07-09 18:54:41] - folds: 5
+[2021-07-09 18:54:41] - seeds : [0, 1, 2]
+[2021-07-09 18:54:41] - model params : {'n_estimators': 20000, 'objective': 'regression', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 18:54:41] - fit params: {'early_stopping_rounds': 50, 'verbose': 1000}
+[2021-07-09 18:54:41] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 18:54:55] - exp001_PRICE - SEED:0, FOLD:0 >>> 0.0424
+[2021-07-09 18:56:31] - exp name : exp001
+[2021-07-09 18:56:31] - metrics : mean_squared_error
+[2021-07-09 18:56:31] - cv : make_kf
+[2021-07-09 18:56:31] - model : MyLGBMModel
+[2021-07-09 18:56:31] - feature select method : tree_importance
+[2021-07-09 18:56:31] - feature select fold : 5
+[2021-07-09 18:56:31] - feature select num : 300
+[2021-07-09 18:56:31] - folds: 5
+[2021-07-09 18:56:31] - seeds : [0, 1, 2]
+[2021-07-09 18:56:31] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 18:56:31] - fit params: {'early_stopping_rounds': 50, 'verbose': 1000}
+[2021-07-09 18:56:31] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 18:56:47] - exp001_PRICE - SEED:0, FOLD:0 >>> 0.0424
+[2021-07-09 18:57:04] - exp001_PRICE - SEED:0, FOLD:1 >>> 0.0556
+[2021-07-09 18:57:23] - exp001_PRICE - SEED:0, FOLD:2 >>> 0.0388
+[2021-07-09 18:57:39] - exp001_PRICE - SEED:0, FOLD:3 >>> 0.0452
+[2021-07-09 18:57:54] - exp001_PRICE - SEED:0, FOLD:4 >>> 0.0481
+[2021-07-09 18:57:55] - exp001_PRICE = SEED:0 - score: 0.0460
+[2021-07-09 18:58:10] - exp001_PRICE - SEED:1, FOLD:0 >>> 0.0427
+[2021-07-09 18:58:31] - exp001_PRICE - SEED:1, FOLD:1 >>> 0.0488
+[2021-07-09 18:58:58] - exp001_PRICE - SEED:1, FOLD:2 >>> 0.0477
+[2021-07-09 18:59:28] - exp001_PRICE - SEED:1, FOLD:3 >>> 0.0418
+[2021-07-09 19:00:01] - exp001_PRICE - SEED:1, FOLD:4 >>> 0.0469
+[2021-07-09 19:00:02] - exp001_PRICE = SEED:1 - score: 0.0456
+[2021-07-09 19:00:26] - exp001_PRICE - SEED:2, FOLD:0 >>> 0.0464
+[2021-07-09 19:00:48] - exp001_PRICE - SEED:2, FOLD:1 >>> 0.0441
+[2021-07-09 19:01:11] - exp001_PRICE - SEED:2, FOLD:2 >>> 0.0457
+[2021-07-09 19:01:33] - exp001_PRICE - SEED:2, FOLD:3 >>> 0.0435
+[2021-07-09 19:01:54] - exp001_PRICE - SEED:2, FOLD:4 >>> 0.0457
+[2021-07-09 19:01:55] - exp001_PRICE = SEED:2 - score: 0.0451
+[2021-07-09 19:01:55] - exp001_PRICE =======  Start prediction cv 🚀 =======
+[2021-07-09 19:01:55] - exp001_PRICE >>> SEED:0, FOLD:0
+[2021-07-09 19:01:56] - exp001_PRICE >>> SEED:0, FOLD:1
+[2021-07-09 19:01:57] - exp001_PRICE >>> SEED:0, FOLD:2
+[2021-07-09 19:01:58] - exp001_PRICE >>> SEED:0, FOLD:3
+[2021-07-09 19:01:59] - exp001_PRICE >>> SEED:0, FOLD:4
+[2021-07-09 19:02:00] - exp001_PRICE >>> SEED:1, FOLD:0
+[2021-07-09 19:02:01] - exp001_PRICE >>> SEED:1, FOLD:1
+[2021-07-09 19:02:02] - exp001_PRICE >>> SEED:1, FOLD:2
+[2021-07-09 19:02:03] - exp001_PRICE >>> SEED:1, FOLD:3
+[2021-07-09 19:02:04] - exp001_PRICE >>> SEED:1, FOLD:4
+[2021-07-09 19:02:06] - exp001_PRICE >>> SEED:2, FOLD:0
+[2021-07-09 19:02:07] - exp001_PRICE >>> SEED:2, FOLD:1
+[2021-07-09 19:02:08] - exp001_PRICE >>> SEED:2, FOLD:2
+[2021-07-09 19:02:09] - exp001_PRICE >>> SEED:2, FOLD:3
+[2021-07-09 19:02:10] - exp001_PRICE >>> SEED:2, FOLD:4
+[2021-07-09 19:02:11] - exp001_PRICE =======  Complete prediction cv 🎉 ======= 
+[2021-07-09 19:09:43] - exp name : exp001
+[2021-07-09 19:09:43] - metrics : root_mean_squared_error
+[2021-07-09 19:09:43] - cv : make_kf
+[2021-07-09 19:09:43] - model : MyLGBMModel
+[2021-07-09 19:09:43] - feature select method : tree_importance
+[2021-07-09 19:09:43] - feature select fold : 5
+[2021-07-09 19:09:43] - feature select num : 300
+[2021-07-09 19:09:43] - folds: 5
+[2021-07-09 19:09:43] - seeds : [0, 1, 2]
+[2021-07-09 19:09:43] - model params : {'n_estimators': 20000, 'objective': 'rmse', 'learning_rate': 0.01, 'num_leaves': 36, 'random_state': 71, 'n_jobs': -1, 'importance_type': 'gain', 'colsample_bytree': 0.5, 'reg_lambda': 5, 'max_depth': 5}
+[2021-07-09 19:09:43] - fit params: {'early_stopping_rounds': 50, 'verbose': 1000}
+[2021-07-09 19:09:43] - exp001_PRICE ======= start training cv 🚀 ======= 
+[2021-07-09 19:09:58] - exp001_PRICE - SEED:0, FOLD:0 >>> 0.2058
+[2021-07-09 19:10:13] - exp001_PRICE - SEED:0, FOLD:1 >>> 0.2358
+[2021-07-09 19:10:29] - exp001_PRICE - SEED:0, FOLD:2 >>> 0.1970
+[2021-07-09 19:10:44] - exp001_PRICE - SEED:0, FOLD:3 >>> 0.2125
+[2021-07-09 19:10:58] - exp001_PRICE - SEED:0, FOLD:4 >>> 0.2194
+[2021-07-09 19:10:59] - exp001_PRICE = SEED:0 - score: 0.2145
+[2021-07-09 19:11:13] - exp001_PRICE - SEED:1, FOLD:0 >>> 0.2066
+[2021-07-09 19:11:34] - exp001_PRICE - SEED:1, FOLD:1 >>> 0.2208
+[2021-07-09 19:11:51] - exp001_PRICE - SEED:1, FOLD:2 >>> 0.2184
+[2021-07-09 19:12:10] - exp001_PRICE - SEED:1, FOLD:3 >>> 0.2045
+[2021-07-09 19:12:25] - exp001_PRICE - SEED:1, FOLD:4 >>> 0.2166
+[2021-07-09 19:12:26] - exp001_PRICE = SEED:1 - score: 0.2135
+[2021-07-09 19:12:54] - exp001_PRICE - SEED:2, FOLD:0 >>> 0.2154
+[2021-07-09 19:13:20] - exp001_PRICE - SEED:2, FOLD:1 >>> 0.2100
+[2021-07-09 19:13:48] - exp001_PRICE - SEED:2, FOLD:2 >>> 0.2137
+[2021-07-09 19:14:06] - exp001_PRICE - SEED:2, FOLD:3 >>> 0.2085
+[2021-07-09 19:14:34] - exp001_PRICE - SEED:2, FOLD:4 >>> 0.2139
+[2021-07-09 19:14:36] - exp001_PRICE = SEED:2 - score: 0.2123
+[2021-07-09 19:14:36] - exp001_PRICE =======  Start prediction cv 🚀 =======
+[2021-07-09 19:14:36] - exp001_PRICE >>> SEED:0, FOLD:0
+[2021-07-09 19:14:37] - exp001_PRICE >>> SEED:0, FOLD:1
+[2021-07-09 19:14:38] - exp001_PRICE >>> SEED:0, FOLD:2
+[2021-07-09 19:14:39] - exp001_PRICE >>> SEED:0, FOLD:3
+[2021-07-09 19:14:40] - exp001_PRICE >>> SEED:0, FOLD:4
+[2021-07-09 19:14:41] - exp001_PRICE >>> SEED:1, FOLD:0
+[2021-07-09 19:14:42] - exp001_PRICE >>> SEED:1, FOLD:1
+[2021-07-09 19:14:44] - exp001_PRICE >>> SEED:1, FOLD:2
+[2021-07-09 19:14:45] - exp001_PRICE >>> SEED:1, FOLD:3
+[2021-07-09 19:14:46] - exp001_PRICE >>> SEED:1, FOLD:4
+[2021-07-09 19:14:47] - exp001_PRICE >>> SEED:2, FOLD:0
+[2021-07-09 19:14:49] - exp001_PRICE >>> SEED:2, FOLD:1
+[2021-07-09 19:14:50] - exp001_PRICE >>> SEED:2, FOLD:2
+[2021-07-09 19:14:51] - exp001_PRICE >>> SEED:2, FOLD:3
+[2021-07-09 19:14:53] - exp001_PRICE >>> SEED:2, FOLD:4
+[2021-07-09 19:14:54] - exp001_PRICE =======  Complete prediction cv 🎉 ======= 
